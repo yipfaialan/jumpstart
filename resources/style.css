@@ -9,7 +9,7 @@ nav {
   font-weight: bold;
 }
 
-.navbar .navbar-nav > .active > a {
+.navbar-light .navbar-nav .active > .nav-link {
   color: #399bd1;
 }
 
